@@ -80,6 +80,11 @@ main {
   gap:30px;
 }
 
+main h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+
 main button{
   background-color: var(--primary-button-background-color);
   color: var(--primary-button-text-color);
