@@ -16,21 +16,21 @@ Large product screenshot
 
 Row of company logos
 
-4. Feature Cards Section
-
-Section title
-
-Grid of 3–4 cards
-
-5. Feature Sections (3 blocks)
+4. Feature Sections (3 blocks)
 
 Two-column layout (text + image)
 
 Alternate image/text positions
 
-6. Testimonials
+5. Testimonials
 
 Quote cards with name and role
+
+6. Feature Cards Section
+
+Section title
+
+Grid of 3–4 cards
 
 7. Changelog / Updates
 
